@@ -1,0 +1,11 @@
+{
+  "name": "codegig",
+  "version": "1.0.0",
+  "description": "code gig using node express Sequelize and mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael",
+  "license": "ISC"
+}
